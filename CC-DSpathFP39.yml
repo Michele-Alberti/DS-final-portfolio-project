@@ -1,0 +1,16 @@
+name: CC-DSpathFP39
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - matplotlib
+  - numpy
+  - pandas
+  - plotly
+  - chart-studio
+  - scipy
+  - scikit-learn
+  - seaborn
+  - tqdm
+  - jupyterlab
+  - ipywidgets
